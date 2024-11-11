@@ -37,6 +37,8 @@
 - [Digital Planner](https://affine.pro/templates/category-digital-planner)
 - [One Pager Template](https://affine.pro/templates/category-one-pager-template-free)
 - [Travel Itinerary Template](https://affine.pro/templates/category-free-travel-itinerary-template)
+- [Minecraft Building Planner](https://affine.pro/templates/minecraft-building-planner)
+- [To-do List Template](https://affine.pro/blog/to-do-list-template)
 
 
 ## Design
@@ -93,7 +95,6 @@
 - [bestofjs-affine](https://bestofjs.org/projects/affine) -  bestofjs.org affine
 - [Start AFFiNE Server By Docker](https://github.com/toeverything/AFFiNE/blob/master/docs/BUILDING.md)
 - [Start AFFiNE Server By Codebase](https://github.com/toeverything/OctoBase/blob/master/apps/homepage/pages/docs/building_guide.md)
-- [Using AFFiNE as your own blog](https://affine.pro/blog/using-affine-as-a-blog-technical)
 - [Export AFFiNE Workspace](https://pengx17.vercel.app/posts/affine-exporter)
 - [Deploy AFFiNE to Vercel](https://github.com/toeverything/AFFiNE-docs/blob/master/getting-started/deploy-affine-to-vercel.md)
 - [AFFiNE fully managed by Elestio](https://elest.io/open-source/affine)
@@ -105,11 +106,11 @@
 - [Travel Itinerary Planner Templates](https://affine.pro/blog/free-customized-travel-itinerary-planner-templates)
 - [Evernote Alternative](https://affine.pro/blog/top-10-Evernote-Alternatives)
 - [Note Taking AI From rough notes to mind map](https://affine.pro/blog/note-taking-ai-from-rough-notes-to-mind-map)
+- [Top 12 One-Pager Examples and Templates](https://affine.pro/blog/top-12-one-pager-examples-how-to-create-your-own)
 - [The Best Note Taking Apps Used by Harvard Students](https://affine.pro/blog/the-best-note-taking-apps-used-by-harvard-students)
 - [Calendar Template](https://affine.pro/blog/free-8-printable-customizable-monthly-calendar-templates-examples)
-  
+
   <a href='https://dash.zeabur.com/templates/J8CLC1'><img src='https://zeabur.com/button.svg'/></a>
-- [alternativeto AFFiNE](https://alternativeto.net/software/affine/) 
 - [AFFiNE in stackshare](https://stackshare.io/affine/alternatives/)
 - [AFFiNE in libhunt](https://www.libhunt.com/r/AFFiNE) 
 - [AFFiNE.PRO Is an Open-source Self-hosted Knowledge Base and Notion.AI Alternative](https://medevel.com/affine-pro/)
